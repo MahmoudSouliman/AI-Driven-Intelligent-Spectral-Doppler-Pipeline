@@ -3,6 +3,9 @@ Educational &amp; Training Platform
 # AI-Driven Intelligent Spectral Doppler Pipeline (Phase 1)
 ### 🎓 An Interactive Physics-Informed Educational & Diagnostic Simulator
 
+
+![Doppler Pipeline Phase 1 Cover](Doppler_Pipeline_Phase1.png)
+
 ---
 
 ## 📌 Target Audience & Educational Value
