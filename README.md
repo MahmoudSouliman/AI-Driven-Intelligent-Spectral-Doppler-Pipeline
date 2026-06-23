@@ -52,3 +52,15 @@ $$\Delta f = \frac{2 f_0 v \cos\theta}{c}$$
 1. Clone the repository.
 2. Open `Doppler_Pipeline_Phase1.ipynb` in **Google Colab** or Jupyter Notebooks.
 3. Move the interactive slider to instantly experience the visual and auditory shift!
+
+
+----
+
+
+## 👨‍💻 Author & Developer
+* **Name:** Eng. Mahmoud Ali Souliman  
+* **Professional Role:** Machine Learning Engineer & Medical Equipment Maintenance Specialist.  
+* **Credentials:** Specialized Diploma in Medical Equipment and Diagnostic Hardware.  
+* **Core Expertise:** Physics-Informed Neural Networks, Clinical Digital Signal Processing (DSP), Diagnostic Ultrasound Instrumentation, and Deep Learning for Healthcare.
+
+---
