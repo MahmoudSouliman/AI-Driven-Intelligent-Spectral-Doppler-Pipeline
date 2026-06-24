@@ -43,6 +43,9 @@ This module demonstrates vector mechanics. By manually adjusting the probe inson
 $$\Delta f = \frac{2 f_0 v \cos\theta}{c}$$
 
 ---
+Interactive Code (Run instantly on Google Colab): [https://lnkd.in/eVRzmMvd]
+
+---
 
 ## 💻 Tech Stack & Getting Started
 * **Core:** Python 3.x, NumPy (Vectorized signal math), SciPy (Signal processing)
