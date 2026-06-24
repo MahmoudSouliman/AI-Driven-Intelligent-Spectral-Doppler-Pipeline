@@ -43,7 +43,7 @@ This module demonstrates vector mechanics. By manually adjusting the probe inson
 $$\Delta f = \frac{2 f_0 v \cos\theta}{c}$$
 
 ---
-Interactive Code (Run instantly on Google Colab): [https://lnkd.in/eVRzmMvd]
+Interactive Code (Run instantly on Google Colab): [[https://lnkd.in/eVRzmMvd](https://colab.research.google.com/drive/1Mb26JRfIe2_iKQibf5eIPb32SKFsSSp_?usp=sharing)]
 
 ---
 
